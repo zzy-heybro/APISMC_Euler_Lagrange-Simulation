@@ -11,5 +11,4 @@ How to Run
 3.  Run `main.m` to generate all simulation results
 
 Notes
-- All parameters are configured to match the values in Table 2 of the manuscript
 - Password-free access is provided exclusively for the review phase

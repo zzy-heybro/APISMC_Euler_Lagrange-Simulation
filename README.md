@@ -11,4 +11,4 @@ How to Run
 3.  Run `main.m` to generate all simulation results
 
 Notes
-- Password-free access is provided exclusively for the review phase
+- Contact the author for the password
